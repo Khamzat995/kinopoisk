@@ -1,0 +1,23 @@
+.container {
+  width: 1200px;
+}
+.navbar-brand {
+  margin-left: 20px;
+}
+.container-two {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.container-two-right {
+  width: 200px;
+
+}
+.container-two-left {
+  margin-left: 20px;
+}
+
+.card-group {
+  margin-bottom: 20px;
+}
