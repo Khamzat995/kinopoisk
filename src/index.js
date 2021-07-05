@@ -1,4 +1,5 @@
-import { addCatInMenu } from "./script";
+import addCatInMenu from './nav-bar'
+
 import './public/css/style.css'
 
-addCatInMenu('films/')
+addCatInMenu('films/');
