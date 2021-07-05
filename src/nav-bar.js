@@ -23,7 +23,6 @@ const addCatInMenu = (route) => {
             });
         })
 
-    getRandomFilms(route)
 }
 
 export default addCatInMenu;
